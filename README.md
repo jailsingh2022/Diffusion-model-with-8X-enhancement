@@ -2,6 +2,8 @@
 
 This repository contains the implementation of a diffusion-based super-resolution model (SRDiff) optimized for 8x upscaling. The project explores the use of iterative refinement via diffusion models to generate high-fidelity, high-resolution images from low-resolution inputs.
 
+**Alternative Kaggle Notebook Link**: [View SRDiff on Kaggle](https://www.kaggle.com/code/ajmeerajailsingh007/srdiff?scriptVersionId=317000635)
+
 ## Project Structure
 
 The project is divided into two main components:
