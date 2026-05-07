@@ -22,6 +22,8 @@ Contains the inference pipeline and evaluation for 8x super-resolution:
 
 The model is trained on the **DIV2K dataset**, which consists of high-resolution images and their corresponding low-resolution counterparts. 
 
+**Dataset Link**: [DIV2K High Resolution Images on Kaggle](https://www.kaggle.com/datasets/soumikrakshit/div2k-high-resolution-images)
+
 *(Note: The DIV2K dataset and PyTorch model checkpoints (`.pth` files) are ignored in this repository due to GitHub file size constraints.)*
 
 ## Key Features
